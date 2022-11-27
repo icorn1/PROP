@@ -1,7 +1,7 @@
 # PROP (UPC: EPSEVG)
 
 
-Repositori de l'assignatura PROP 
+Repositori de l'assignatura PROP   
 Programming Project (PROP) subject repository 
 
 ## Activitat 1: Robocode team robots
