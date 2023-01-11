@@ -17,3 +17,8 @@ El segon equip està dissenyat per guanyar combats (tot i que no vam passar de v
 Simple Connect 4 MinMax algorithm with alpha-beta pruning   
 Algoritme MinMax amb poda alfa-beta per a connecta 4, parametritzat amb profunditat.   
 **Fet conjuntament amb Roberto Lupu**
+
+#### Carpeta Othello   
+Implementation of a MinMax algorithm with alpha-beta pruning for Othello, with custom heuristic function and many details.     
+Algoritme MinMax amb poda alfa-beta per Othello, amb heurística propia, i més detalls. 
+**Fet conjuntament amb Eric "Microondas" Gonzalez.** 
