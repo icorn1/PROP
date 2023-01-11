@@ -18,6 +18,8 @@ Simple Connect 4 MinMax algorithm with alpha-beta pruning
 Algoritme MinMax amb poda alfa-beta per a connecta 4, parametritzat amb profunditat.   
 **Fet conjuntament amb Roberto Lupu**
 
+## Projecte: Othello MinMax algorithm (Java)
+
 #### Carpeta Othello   
 Implementation of a MinMax algorithm with alpha-beta pruning for Othello, with custom heuristic function and many details.     
 Algoritme MinMax amb poda alfa-beta per Othello, amb heurística propia, i més detalls. 
